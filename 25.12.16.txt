@@ -1,0 +1,41 @@
+[objeto]:(localização)
+
+          [cenario]:(espaço)
+                        [colidivel]:
+                                         [paredes]
+    
+                                         [solo]
+
+                                    
+                  
+                        [não colidivel]:
+                                         [grama]
+
+                                         [chuva]
+                                      
+                                         [pintura]
+                  
+                    
+          [personagem]:(vida)
+                        [jogavel]:
+                                         [jogador]
+
+                                         [companheiro]
+
+                                         [pet]
+
+                        [NPC]:
+                                         [interativo]
+
+                                         [não interativo]
+
+          [itens]:(
+                        [utilizavel]:
+                                         [armas]
+
+                                         [poções]
+                     
+                        [não utilizavel]:
+                                         [lixo]
+
+
